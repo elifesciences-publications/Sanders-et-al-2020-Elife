@@ -1,3 +1,5 @@
+### This code is associated with the paper from Sanders et al., "Hippocampal remapping as hidden state inference". eLife, 2020. http://dx.doi.org/10.7554/eLife.51140
+
 Install of python3 including numpy, scipy, and matplotlib is expected.  Pycircstat library is used, code needs to be built for your machine.  See their documentation at https://github.com/circstat/pycircstat.  
 
 Special files:  
